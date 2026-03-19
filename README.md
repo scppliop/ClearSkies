@@ -165,5 +165,6 @@ ClearSkies implements the DGTV architecture with the following components:
 ## References
 
 - Vu, H., Cheung, G., & Eldar, Y. C. (2021). Unrolling of Deep Graph Total Variation for Image Denoising. *arXiv:2010.11290.*
-
+- Dabov, K., et al. (2007). Image denoising by sparse 3-D transform-domain collaborative filtering. IEEE Trans. Image Processing, 16.
+- Copernicus Data Space Ecosystem. https://dataspace.copernicus.eu
 ---
